@@ -22,13 +22,13 @@ Located at: `/opt/openclaw/business/config/workspace/production/kdp-colouring-bo
 |--------|------|------|
 | kdp-writer | workers/kdp-writer.md | Generate 40 colouring page descriptions per book |
 | kdp-artist | workers/kdp-artist.md | Leonardo AI image generation (free tier — no gate) |
-| kdp-scout | workers/kdp-scout.md | Helium 10 niche + keyword research |
+| kdp-scott | workers/kdp-scott.md | Helium 10 niche + keyword research |
 | press | workers/press.md | PDF assembly + KDP formatting |
 | herald | workers/herald.md | Listing copy for all platforms |
 
 ## Pipeline (in order)
 
-1. **kdp-scout** → Helium 10 keyword research, top 20 keywords + 3 competitor ASINs
+1. **kdp-scott** → Helium 10 keyword research, top 20 keywords + 3 competitor ASINs
 2. **kdp-writer** → 40 descriptions per book using scout's niche insights
 3. **kdp-artist** → Leonardo AI generation, 300 DPI B&W line art (25-37 images/day free tier)
 4. **press** → assemble interior PDF (8.5"×11", greyscale, 300 DPI, PDF/X-1a)

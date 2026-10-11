@@ -14,10 +14,10 @@ Read this first every session.
 
 | Blocker | Needs |
 |---|---|
-| Brush paused: Leonardo gate wording conflicts (empire CLAUDE.md: no gate; old atlas.md: Einstein gated) | Anthony: one word "approved" |
+| Brush ON HOLD by Anthony (2026-10-11): no image generation until he lifts it | Anthony |
 | Amazon KDP account not confirmed | Anthony |
 | Helium 10 credentials not set (Scout used training-data research instead) | Anthony (paid tool, Einstein gate) |
-| herald.md still uses "World Cup" wording 16 times | Atlas to send herald a rework order |
+| RESOLVED 2026-10-11: herald.md trademark wording replaced | done |
 
 ## Archive (`legacy/`)
 

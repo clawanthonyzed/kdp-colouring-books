@@ -27,24 +27,24 @@ Write high-converting, keyword-optimised listings for every platform. All copy m
 
 ### Adult Book
 
-**Title:** `2026 FIFA World Cup Adult Coloring Book: 40 Intricate Soccer Designs for Stress Relief`
+**Title:** `2026 Soccer World Championship Adult Coloring Book: 40 Intricate Soccer Designs for Stress Relief`
 
 **Subtitle:** `Detailed Football Coloring Pages for Adults | Stadium Art, Player Portraits & Tournament Scenes | Perfect for Relaxation`
 
 **Keywords (7):**
-1. `world cup 2026 coloring book adults`
+1. `soccer world championship 2026 coloring book adults`
 2. `soccer coloring book for adults stress relief`
 3. `football coloring book adult intricate`
-4. `FIFA 2026 adult activity book`
+4. `soccer 2026 adult activity book`
 5. `soccer art coloring pages`
-6. `world cup coloring book USA`
+6. `football coloring book USA Canada Mexico 2026`
 7. `football stress relief coloring adults`
 
 **Description:**
 ```
 Celebrate the greatest sporting event on earth with 40 stunning colouring pages designed for adult fans.
 
-The 2026 FIFA World Cup Adult Colouring Book features:
+The 2026 Soccer World Championship Adult Colouring Book features:
 ✓ 40 UNIQUE DESIGNS — no two pages alike. Stadiums, player portraits, trophy art, and tournament scenes
 ✓ INTRICATE DETAIL — mandala borders, Art Nouveau flourishes, and zentangle textures throughout
 ✓ STRESS RELIEF — the perfect mindful activity during match breaks or long evenings
@@ -53,31 +53,31 @@ The 2026 FIFA World Cup Adult Colouring Book features:
 
 Ideal for soccer fans, adult colouring enthusiasts, and anyone who wants to combine their love of football with creative relaxation.
 
-Makes an exceptional gift for the World Cup fan in your life.
+Makes an exceptional gift for the soccer fan in your life.
 
-This is the ultimate colouring companion for the greatest World Cup in history.
+This is the ultimate colouring companion for the greatest soccer tournament in history.
 ```
 
 ### Kids Book
 
-**Title:** `2026 FIFA World Cup Kids Coloring Book: 40 Fun Soccer Pages for Children Ages 4-12`
+**Title:** `2026 Soccer World Championship Kids Coloring Book: 40 Fun Soccer Pages for Children Ages 4-12`
 
-**Subtitle:** `World Cup 2026 Activity Book for Boys and Girls | Cute Football Characters, Teams & Celebrations | Easy to Color`
+**Subtitle:** `2026 Soccer World Championship Activity Book for Boys and Girls | Cute Football Characters, Teams & Celebrations | Easy to Color`
 
 **Keywords (7):**
-1. `world cup 2026 coloring book kids`
+1. `soccer world championship 2026 coloring book kids`
 2. `soccer coloring book children ages 4-8`
 3. `football coloring book boys girls`
-4. `world cup activity book kids 2026`
+4. `soccer championship activity book kids 2026`
 5. `soccer kids coloring pages easy`
-6. `world cup 2026 kids gift`
+6. `soccer 2026 kids gift`
 7. `football fun coloring children`
 
 **Description:**
 ```
 Get ready for the biggest soccer party in the world with 40 SUPER FUN colouring pages!
 
-The 2026 FIFA World Cup Kids Colouring Book is packed with:
+The 2026 Soccer World Championship Kids Colouring Book is packed with:
 ✓ 40 UNIQUE PAGES — fun soccer characters, funny mascots, rainbow stadiums, and wild celebrations
 ✓ PERFECT FOR LITTLE HANDS — bold outlines and large colouring areas for ages 4-12
 ✓ TONS OF FUN — each page tells its own mini soccer story
@@ -91,9 +91,9 @@ The perfect activity book for the little soccer fan in your family.
 
 ## Etsy Listing
 
-**Title (140 chars):** `2026 World Cup Coloring Book Adults - 40 Intricate Soccer Pages - Printable PDF - Instant Download`
+**Title (140 chars):** `2026 Soccer World Championship Coloring Book Adults - 40 Intricate Soccer Pages - Printable PDF - Instant Download`
 
-**Tags (13):** world cup 2026, coloring book adults, soccer coloring, football art, printable coloring, adult coloring book, stress relief art, FIFA 2026, soccer gift, football fan gift, instant download, digital coloring, printable activity
+**Tags (13):** soccer championship 2026, coloring book adults, soccer coloring, football art, printable coloring, adult coloring book, stress relief art, soccer 2026, soccer gift, football fan gift, instant download, digital coloring, printable activity
 
 **Description:** [Adapt Amazon description, add "Instant download PDF — print at home as many times as you like."]
 
@@ -101,7 +101,7 @@ The perfect activity book for the little soccer fan in your family.
 
 Short product description (500 chars):
 ```
-40 intricate World Cup 2026 colouring pages for adults. Stadium scenes, player portraits, 
+40 intricate 2026 Soccer World Championship colouring pages for adults. Stadium scenes, player portraits, 
 trophy art, and tournament illustrations with detailed mandala and Art Nouveau styling. 
 Instant PDF download. Print as many times as you like. 8.5"×11", 300 DPI print-ready quality.
 ```
@@ -140,3 +140,7 @@ Every session, immediately after completing a task (not just at session end), ap
 This is what lets Idea Lobster (and any other session) see what you did without being told directly.
 An agent that skips this line is invisible to the rest of the empire for that piece of work, even if
 the work itself was done correctly. Do this before reporting the task as complete to Anthony.
+
+## Trademark Rule (2026-10-11)
+
+Customer-facing copy never uses the governing body's name or its trademarked tournament name. Use "2026 Soccer World Championship".

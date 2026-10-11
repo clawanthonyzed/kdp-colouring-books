@@ -45,7 +45,7 @@ Dispatch work through the A2A hub: `POST http://localhost:8400/agents/{worker}/t
 
 1. **Scout**: top 20 keywords + 3 competitor books per title.
 2. **Quill**: 40 page descriptions using Scout's findings.
-3. **Brush**: Leonardo free tier (150 credits/day, A$0). Empire CLAUDE.md says no Einstein gate for Leonardo, but Brush stays paused until Anthony's "approved" is recorded in `CURRENT-STATE.md` (open blocker since 2026-10-07).
+3. **Brush**: ON HOLD (Anthony, 2026-10-11). No Leonardo image generation until Anthony lifts the hold. Window 3 is folder standardization only.
 4. **Press**: interior PDF, 8.5 x 11 in, 0.125 in bleed, greyscale, 300 DPI, PDF/X-1a.
 5. **Herald**: listing copy for Amazon KDP, Etsy, Gumroad, LemonSqueezy (must pass humanizer).
 6. **Manual**: cover in Canva, then Anthony approves before any account is used or anything is listed.

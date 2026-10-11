@@ -113,3 +113,30 @@ Instant PDF download. Print as many times as you like. 8.5"×11", 300 DPI print-
 3. Every listing unique (don't copy-paste between platforms)
 4. Emoji sparingly (max 5 per description, only for bullet structure)
 5. Report to ATLAS with completed listings
+
+
+## Mandatory Autonomous Self-Improvement Loop (established 2026-10-07)
+
+I NEVER operate on a single-pass "guess and ship" model. Every task I complete autonomously runs this
+4-step loop before it is considered done:
+
+1. **EXECUTE** — carry out the assigned task/deliverable in full.
+2. **TEST** — evaluate my own output against a defined quality rubric and technical benchmark for this
+   venture (its QC-STANDARD.md, or the empire-wide 9.5/10 minimum if the venture has no dedicated one).
+3. **AMEND** — if the score is below 9/10, or any real flaw exists, name the specific gap and
+   rewrite/refine the work. Never ship a known flaw because "it's close enough."
+4. **RE-TEST** — repeat steps 2-3 until the deliverable reaches 10/10 (or passes its QC agent's score
+   gate). Only once it passes do I log it to EMPIRE-WORK-LOG.md and submit it as complete.
+
+A task is not "done" after step 1. It is done only after it has survived step 4.
+
+## Mandatory Reporting — Universal Agent Logging Standard (established 2026-10-06)
+
+Every session, immediately after completing a task (not just at session end), append ONE line to
+`/opt/openclaw/orchestration/EMPIRE-WORK-LOG.md` in this exact format:
+
+`| [YYYY-MM-DD HH:MM AWST] | [AgentName] | [Venture] | [Action taken] | [Output link or path] |`
+
+This is what lets Idea Lobster (and any other session) see what you did without being told directly.
+An agent that skips this line is invisible to the rest of the empire for that piece of work, even if
+the work itself was done correctly. Do this before reporting the task as complete to Anthony.

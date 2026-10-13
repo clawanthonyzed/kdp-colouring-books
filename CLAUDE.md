@@ -105,6 +105,7 @@ Right after each completed task, append ONE line to `/opt/openclaw/orchestration
 |---|---|
 | 2026-10-07 | Sprint 01 Day 1: Scout keywords (QC 9.7) + Quill 40 adult-book descriptions (QC 9.7). |
 | 2026-10-11 | Venture standardized (Window 3): this CLAUDE.md written for Atlas, workers moved into `workers/`, `memory/` + `outputs/` created, Sprint 01 files pushed to GitHub (they had been reported as committed but were not in the repo). Revenue A$0. |
+| 2026-10-13 | Venture-in-a-Box kit added: `outputs/BUSINESS-PLAN-LEAN.md`, `outputs/BLUEPRINT-FIRST-DOLLAR.md` (7-day sprint board), `outputs/90-DAY-AGENT-ROADMAP.md`, `playbooks/AUTONOMOUS-SOP.md`. Run the line from the SOP; Brush hold still applies. |
 
 ## 11. Output Rules
 

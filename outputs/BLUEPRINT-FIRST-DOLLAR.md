@@ -32,6 +32,24 @@
 4. **List (Day 4-5):** Herald writes Etsy + Gumroad copy. ⚠️ Etsy listing fee US$0.20 needs Anthony's OK. Gumroad costs nothing upfront.
 5. **KDP submit (Day 5):** Cover via Canva (manual step, flagged in VENTURE.md). Submit paperback. Expect live by Day 7-8.
 
+## 📆 3b. 7-Day Sprint Board (added 2026-10-13, Venture-in-a-Box kit)
+
+> 🛑 **Day 0 gate:** Brush has been ON HOLD since 2026-10-11 (Anthony). The sprint clock starts the day Anthony says "Brush approved". Days 1 and 4 work can start now.
+
+| Day | Deliverable | Owner | Done when |
+|---|---|---|---|
+| 1 | 30 Aussie Christmas page descriptions + Leonardo briefs (no snow, ever) | Quill | Draw 9.5+ |
+| 1 | 10 keywords + 3 competitor books for "australian christmas colouring" | Scout | Table in `outputs/research/` |
+| 2 to 3 | 30 keeper pages of line art, thick closed lines | Brush | Draw passes every page |
+| 4 | Printable PDF (A4 + US Letter) + KDP interior 8.5 x 11, single-sided | Press | Draw 9.5+, no duplicates |
+| 4 | Gumroad + KDP listing copy (humanizer pass) + cover brief | Herald | Draw 9.5+ |
+| 5 | 🛑 **Anthony gate:** OK the Gumroad account, KDP account, Canva cover | Anthony | Approved in writing |
+| 5 | Gumroad PDF live at A$6.90, KDP paperback submitted at A$12.99 | Atlas | Live URL logged |
+| 6 | 10 Pinterest pins + 1 free sample page post in Aussie parent groups | Herald drafts, Atlas posts | Links logged |
+| 7 | Count views and sales; decide keep / fix copy / fix price | Atlas | Day-7 report to Idea Lobster |
+
+**Win condition:** 1 real sale by Day 7. KDP royalties land about 60 days later, so the first dollar will most likely be the Gumroad PDF.
+
 ## 📣 4. Traffic Plan: first 50 visitors, A$0 ad spend
 
 | Channel | Action | Expected visitors |

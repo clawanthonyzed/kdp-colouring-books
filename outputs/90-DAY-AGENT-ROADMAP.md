@@ -1,7 +1,7 @@
 # 🗺️ 90-Day Agent Roadmap | KDP Colouring Books (Venture #38)
 
 **Owner:** Atlas | **QC:** Draw | **Window:** 2026-10-14 to 2027-01-11 | **Spend:** A$0
-**Read with:** [BUSINESS-PLAN-LEAN.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/outputs/BUSINESS-PLAN-LEAN.md) · [BLUEPRINT-FIRST-DOLLAR.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/outputs/BLUEPRINT-FIRST-DOLLAR.md) · [AUTONOMOUS-SOP.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/playbooks/AUTONOMOUS-SOP.md)
+**Read with:** [BUSINESS-PLAN-LEAN.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/BUSINESS-PLAN-LEAN.md) · [BLUEPRINT-FIRST-DOLLAR.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/BLUEPRINT-FIRST-DOLLAR.md) · [AUTONOMOUS-SOP.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/AUTONOMOUS-SOP.md)
 
 > 🛑 Brush is ON HOLD (Anthony, 2026-10-11). Every row marked 🎨 waits for "Brush approved". Rows without 🎨 run now.
 

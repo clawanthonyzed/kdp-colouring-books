@@ -3,7 +3,7 @@
 **Owner:** Atlas | **QC:** Draw | **Written:** 2026-10-13 | **Kit:** Venture-in-a-Box, Batch 1
 **Themes (Anthony):** Soccer World Championship + Aussie themes
 
-> Sources: [BLUEPRINT-FIRST-DOLLAR.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/outputs/BLUEPRINT-FIRST-DOLLAR.md), [VENTURE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/VENTURE.md), [CURRENT-STATE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/CURRENT-STATE.md), [CLAUDE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/CLAUDE.md). FX from `/opt/openclaw/logs/fx_aud.json` (RBA, 12 Oct 2026: US$1 = A$1.4329).
+> Sources: [BLUEPRINT-FIRST-DOLLAR.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/BLUEPRINT-FIRST-DOLLAR.md), [VENTURE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/VENTURE.md), [CURRENT-STATE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/CURRENT-STATE.md), [CLAUDE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/CLAUDE.md). FX from `/opt/openclaw/logs/fx_aud.json` (RBA, 12 Oct 2026: US$1 = A$1.4329).
 
 ---
 

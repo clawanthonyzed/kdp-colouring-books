@@ -22,7 +22,7 @@
 
 ## 1️⃣ EXECUTE
 
-1. Atlas opens the week in [90-DAY-AGENT-ROADMAP.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/outputs/90-DAY-AGENT-ROADMAP.md), then dispatches:
+1. Atlas opens the week in [90-DAY-AGENT-ROADMAP.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/90-DAY-AGENT-ROADMAP.md), then dispatches:
    - Live session: `POST http://localhost:8400/agents/{worker}/tasks/send`
    - Laptop-shut: `python3 /opt/openclaw/orchestration/queue_task.py --agent <worker> --venture "KDP Colouring Books" --title "<title>" --brief "<brief>"`
 2. Every brief has 5 lines: **book, age group, inputs (file links), output path, done-when.**

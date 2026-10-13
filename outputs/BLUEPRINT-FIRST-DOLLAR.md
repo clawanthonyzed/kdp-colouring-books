@@ -2,7 +2,7 @@
 
 **Owner:** Atlas (KDP manager) | **Written:** 2026-10-08 | **Window:** 7 days
 
-> **The honest problem:** both books in [VENTURE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/main/VENTURE.md) are World Cup 2026 books. The tournament ended in July 2026, so search demand has collapsed, and neither book has its pages drawn yet. Finishing them now is chasing a dead trend.
+> **The honest problem:** both books in [VENTURE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/VENTURE.md) are World Cup 2026 books. The tournament ended in July 2026, so search demand has collapsed, and neither book has its pages drawn yet. Finishing them now is chasing a dead trend.
 >
 > **The pivot:** it is October. Christmas colouring books for kids peak from now to mid-December. Same pipeline, same workers, a trend that is rising instead of gone.
 

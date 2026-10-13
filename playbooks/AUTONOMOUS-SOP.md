@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | 1 | 🔎 Research | Scout | 10 to 20 keywords + 3 competitor books (`outputs/research/`) | |
 | 2 | ✍️ Pages | Quill | 30 to 40 descriptions + Leonardo briefs (`outputs/content/`) | |
-| 3 | 🎨 Art | Brush | 300 DPI black and white line art (`books/<slug>/pages/`) | 🛑 Brush hold |
+| 3 | 🎨 Art | Brush | 300 DPI black and white line art (`books/<slug>/pages/`) | Free tier only |
 | 4 | 📄 Assemble | Press | Printable PDF (A4 + Letter) + KDP interior (`books/<slug>/`) | |
 | 5 | 📣 Listing | Herald | Copy for each platform (`books/<slug>/listing.md`) | |
 | 6 | ✅ QC | Draw | Scorecard vs `QC-STANDARD.md` (`outputs/qc/`) | 9.5+ |
@@ -50,7 +50,7 @@
 
 ## 4️⃣ SHIP
 
-1. 🛑 Anthony OKs each account once (KDP, Gumroad, LemonSqueezy, Etsy fee, social) via Idea Lobster.
+1. ✅ Gumroad = central empire account (Anthony 2026-10-13). 🛑 KDP, LemonSqueezy, Etsy fee and social accounts still need Anthony's OK once each.
 2. Order: **Gumroad PDF first** (live in hours) ➔ KDP paperback (up to 72 hours review) ➔ mirrors.
 3. Log the live URL in one line:
    `| [YYYY-MM-DD HH:MM AWST] | Atlas | KDP Colouring Books | Shipped <book> PDF A$<x> / paperback A$<y> | <link> |`
@@ -68,7 +68,7 @@
 
 ## 🚨 Escalate to Idea Lobster when
 
-- 🎨 Brush is needed while the hold is on
+- 🎨 Brush needs more than the free 150 credits a day
 - 💳 Money, 🔑 accounts or ⚖️ trademark questions come up
 - 📉 0 sales 14 days after a launch
 - ❓ A fact cannot be verified (say so, never guess)

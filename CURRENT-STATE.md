@@ -20,7 +20,8 @@ _Read this at session start. Update at session end._
 - Both outputs committed to GitHub: clawanthonyzed/kdp-colouring-books/outputs/
 
 ## Active Blockers
-- BLOCKER: Brush image generation needs Einstein/Anthony confirmation on Leonardo free tier gate
+- CLEARED 2026-10-13: Anthony approved Brush on the Leonardo free tier (A$0). Gumroad = central empire account. Target A$2,000/month confirmed.
+- (old) Brush image generation needed Einstein/Anthony confirmation on Leonardo free tier gate
   - CLAUDE.md says "Leonardo = free tier, no Einstein gate"
   - VENTURE.md says "[EINSTEIN GATED]"
   - Anthony: say "Brush approved for Leonardo" to unblock

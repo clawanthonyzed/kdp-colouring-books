@@ -45,7 +45,7 @@ Dispatch work through the A2A hub: `POST http://localhost:8400/agents/{worker}/t
 
 1. **Scout**: top 20 keywords + 3 competitor books per title.
 2. **Quill**: 40 page descriptions using Scout's findings.
-3. **Brush**: ON HOLD (Anthony, 2026-10-11). No Leonardo image generation until Anthony lifts the hold. Window 3 is folder standardization only.
+3. **Brush**: APPROVED (Anthony, 2026-10-13; hold from 2026-10-11 lifted). Leonardo FREE tier only (150 credits/day, A$0). Any paid credits still need Einstein + Anthony.
 4. **Press**: interior PDF, 8.5 x 11 in, 0.125 in bleed, greyscale, 300 DPI, PDF/X-1a.
 5. **Herald**: listing copy for Amazon KDP, Etsy, Gumroad, LemonSqueezy (must pass humanizer).
 6. **Manual**: cover in Canva, then Anthony approves before any account is used or anything is listed.
@@ -105,6 +105,7 @@ Right after each completed task, append ONE line to `/opt/openclaw/orchestration
 |---|---|
 | 2026-10-07 | Sprint 01 Day 1: Scout keywords (QC 9.7) + Quill 40 adult-book descriptions (QC 9.7). |
 | 2026-10-11 | Venture standardized (Window 3): this CLAUDE.md written for Atlas, workers moved into `workers/`, `memory/` + `outputs/` created, Sprint 01 files pushed to GitHub (they had been reported as committed but were not in the repo). Revenue A$0. |
+| 2026-10-13 | Anthony decisions: Brush approved (free tier only), 12-month target confirmed A$2,000/month (AUD), digital PDFs sell through the central empire Gumroad account. |
 | 2026-10-13 | Venture-in-a-Box kit added: `outputs/BUSINESS-PLAN-LEAN.md`, `outputs/BLUEPRINT-FIRST-DOLLAR.md` (7-day sprint board), `outputs/90-DAY-AGENT-ROADMAP.md`, `playbooks/AUTONOMOUS-SOP.md`. Run the line from the SOP; Brush hold still applies. |
 
 ## 11. Output Rules

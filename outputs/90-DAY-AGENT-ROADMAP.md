@@ -3,7 +3,7 @@
 **Owner:** Atlas | **QC:** Draw | **Window:** 2026-10-14 to 2027-01-11 | **Spend:** A$0
 **Read with:** [BUSINESS-PLAN-LEAN.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/BUSINESS-PLAN-LEAN.md) · [BLUEPRINT-FIRST-DOLLAR.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/outputs/BLUEPRINT-FIRST-DOLLAR.md) · [AUTONOMOUS-SOP.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/AUTONOMOUS-SOP.md)
 
-> 🛑 Brush is ON HOLD (Anthony, 2026-10-11). Every row marked 🎨 waits for "Brush approved". Rows without 🎨 run now.
+> ✅ Brush APPROVED by Anthony 2026-10-13 (Leonardo free tier only, A$0). Rows marked 🎨 use Brush and can run now.
 
 ## 👥 Who does what
 
@@ -67,7 +67,7 @@
 
 | Gate | Why |
 |---|---|
-| 🎨 Brush hold | Anthony's call, 2026-10-11 |
+| 🎨 Paid Leonardo credits | Free tier only; paid credits need Einstein + Anthony |
 | 💳 Any fee, paid tool, Helium 10 or ads | Einstein gate + Anthony OK |
 | 🔑 KDP, Gumroad, Etsy, social accounts | Accounts = Anthony's call |
 | ⚖️ Any team, league or tournament name | Trademark check before use |

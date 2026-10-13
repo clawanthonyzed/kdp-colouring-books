@@ -11,11 +11,12 @@
 
 | Gate | Status | Who clears it |
 |---|---|---|
-| 🎨 Brush (Leonardo line art) | **ON HOLD** since 2026-10-11 | Anthony: "Brush approved" |
+| 🎨 Brush (Leonardo line art) | ✅ **APPROVED** 2026-10-13, free tier only | Cleared |
+| 🛒 Gumroad | ✅ Central empire account (2026-10-13) | Cleared |
 | 📚 Amazon KDP account | Not confirmed created | Anthony |
 | 🏷️ Etsy US$0.20 per listing (A$0.29 converted) | Not approved | Anthony. Gumroad needs no fee, so it goes first |
 
-Until Brush is cleared, the line can still do research, page lists, listing copy and covers briefs.
+Only the KDP account is still open. The Gumroad PDF path can ship without it.
 
 ## 🎯 1. Target Customer
 
@@ -58,7 +59,7 @@ Honest read: colouring books are a **volume + catalogue** game. One book will no
 
 ## 📅 4. 12-Month Goal
 
-**Target: A$2,000 per month by 2027-10-13** (from VENTURE.md "$2,000+/month", which has no currency label. 🛑 Anthony to confirm A$).
+**Target: A$2,000 per month by 2027-10-13** (confirmed in AUD by Anthony 2026-10-13).
 
 | Milestone | Date | Measure |
 |---|---|---|

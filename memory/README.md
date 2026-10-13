@@ -14,7 +14,7 @@ Read this first every session.
 
 | Blocker | Needs |
 |---|---|
-| Brush ON HOLD by Anthony (2026-10-11): no image generation until he lifts it | Anthony |
+| Brush APPROVED by Anthony 2026-10-13 (hold lifted): Leonardo free tier only | Anthony |
 | Amazon KDP account not confirmed | Anthony |
 | Helium 10 credentials not set (Scout used training-data research instead) | Anthony (paid tool, Einstein gate) |
 | RESOLVED 2026-10-11: herald.md trademark wording replaced | done |

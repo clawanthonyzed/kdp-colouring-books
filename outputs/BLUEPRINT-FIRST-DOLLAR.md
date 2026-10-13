@@ -34,7 +34,7 @@
 
 ## 📆 3b. 7-Day Sprint Board (added 2026-10-13, Venture-in-a-Box kit)
 
-> 🛑 **Day 0 gate:** Brush has been ON HOLD since 2026-10-11 (Anthony). The sprint clock starts the day Anthony says "Brush approved". Days 1 and 4 work can start now.
+> ✅ **Day 0 cleared 2026-10-13:** Anthony said "Brush approved" (free tier only). Sprint Day 1 = 2026-10-14.
 
 | Day | Deliverable | Owner | Done when |
 |---|---|---|---|
@@ -43,7 +43,7 @@
 | 2 to 3 | 30 keeper pages of line art, thick closed lines | Brush | Draw passes every page |
 | 4 | Printable PDF (A4 + US Letter) + KDP interior 8.5 x 11, single-sided | Press | Draw 9.5+, no duplicates |
 | 4 | Gumroad + KDP listing copy (humanizer pass) + cover brief | Herald | Draw 9.5+ |
-| 5 | 🛑 **Anthony gate:** OK the Gumroad account, KDP account, Canva cover | Anthony | Approved in writing |
+| 5 | ✅ Gumroad = central empire account (Anthony 2026-10-13). 🛑 Still open: KDP account + Canva cover OK | Anthony | Approved in writing |
 | 5 | Gumroad PDF live at A$6.90, KDP paperback submitted at A$12.99 | Atlas | Live URL logged |
 | 6 | 10 Pinterest pins + 1 free sample page post in Aussie parent groups | Herald drafts, Atlas posts | Links logged |
 | 7 | Count views and sales; decide keep / fix copy / fix price | Atlas | Day-7 report to Idea Lobster |

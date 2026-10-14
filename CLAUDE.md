@@ -48,7 +48,9 @@ Dispatch work through the A2A hub: `POST http://localhost:8400/agents/{worker}/t
 3. **Brush**: APPROVED (Anthony, 2026-10-13; hold from 2026-10-11 lifted). Leonardo FREE tier only (150 credits/day, A$0). Any paid credits still need Einstein + Anthony.
 4. **Press**: interior PDF, 8.5 x 11 in, 0.125 in bleed, greyscale, 300 DPI, PDF/X-1a.
 5. **Herald**: listing copy for Amazon KDP, Etsy, Gumroad, LemonSqueezy (must pass humanizer).
-6. **Manual**: cover in Canva, then Anthony approves before any account is used or anything is listed.
+6. **Covers in-house** (Brush art + Press layout). Anthony approves the first 2 books; after that Atlas submits on a 9.5+ QC pass (Founder Rules 2026-10-14).
+
+**Founder Rules (locked 2026-10-14): `playbooks/FOUNDER-RULES.md` overrides anything older in this file.** Sports titles ONLY ahead of a major tournament.
 
 ## 6. My Server Paths
 
@@ -107,6 +109,7 @@ Right after each completed task, append ONE line to `/opt/openclaw/orchestration
 | 2026-10-11 | Venture standardized (Window 3): this CLAUDE.md written for Atlas, workers moved into `workers/`, `memory/` + `outputs/` created, Sprint 01 files pushed to GitHub (they had been reported as committed but were not in the repo). Revenue A$0. |
 | 2026-10-13 | Anthony decisions: Brush approved (free tier only), 12-month target confirmed A$2,000/month (AUD), digital PDFs sell through the central empire Gumroad account. |
 | 2026-10-13 | Venture-in-a-Box kit added: `outputs/BUSINESS-PLAN-LEAN.md`, `outputs/BLUEPRINT-FIRST-DOLLAR.md` (7-day sprint board), `outputs/90-DAY-AGENT-ROADMAP.md`, `playbooks/AUTONOMOUS-SOP.md`. Run the line from the SOP; Brush hold still applies. |
+| 2026-10-14 | Founder Rules locked (Window 4): Cudan Studio Pty Ltd KDP account, 3 pen names, no volume cap, event-driven sports only, off-limits list, A$9.99 to A$19.99 paperbacks. See `playbooks/FOUNDER-RULES.md`. |
 
 ## 11. Output Rules
 

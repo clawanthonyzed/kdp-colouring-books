@@ -1,5 +1,7 @@
 # ⚙️ Autonomous SOP | KDP Colouring Books Assembly Line
 
+> ⚠️ **UPDATED BY FOUNDER RULES (2026-10-14).** Sports books are now event-driven only ([FOUNDER-RULES.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/FOUNDER-RULES.md)): the year-round soccer titles below are paused until a major tournament is 4 to 6 months out (next: the 2027 women's tournament). Covers are in-house, paperbacks A$9.99 to A$19.99, no volume cap. The Founder Rules win wherever this file disagrees.
+
 **Owner:** Atlas | **QC:** Draw | **Written:** 2026-10-13 | **Applies to:** every book, page, file and listing
 **Loop:** EXECUTE ➔ TEST ➔ REFINE ➔ SHIP. Nothing skips a station.
 

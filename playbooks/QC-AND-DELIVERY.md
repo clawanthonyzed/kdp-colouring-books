@@ -46,11 +46,19 @@ Check `/opt/openclaw/toolbox/INDEX.md` before writing anything new.
 
 ## 📌 Founder Rules (permanent, from Anthony)
 
-| Date | Rule |
-|---|---|
-| 2026-06-01 | Never FIFA or World Cup in customer-facing copy |
-| 2026-10-13 | Brush approved on the Leonardo free tier only (A$0) |
-| 2026-10-13 | Target A$2,000 per month (AUD) |
-| 2026-10-13 | Printable PDFs sell through the central empire Gumroad account |
+Source of truth: [FOUNDER-RULES.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/FOUNDER-RULES.md). Summary:
 
-New rules from [FOUNDER-INTERVIEW.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/FOUNDER-INTERVIEW.md) are added here, dated, once Anthony answers.
+| Type | Rule |
+|---|---|
+| 🔒 locked | Amazon KDP account under Cudan Studio Pty Ltd |
+| 🔒 locked | Atlas proposes 3 pen names; Anthony picks one |
+| 🔒 locked | Anthony approves the first 2 books; after that Atlas submits any book that passes QC at 9.5+ |
+| 🔒 locked | Covers made in-house by Brush (art) and Press (layout) |
+| 🔒 locked | Paperback list price A$9.99 to A$19.99 |
+| 🔒 locked | Declare AI-generated content on KDP's internal checkbox every time; no AI badges or AI wording on customer-facing pages |
+| 🔒 locked | Off-limits themes ONLY: politics, explicit content, trademarked or licensed characters. Angelic and faith themes are approved |
+| 🔒 locked | No monthly volume cap: publish as many books as pass the 10/10 quality bar |
+| 🔒 locked | Free sample pages are generated automatically for every book |
+| 🔒 locked | EVENT-DRIVEN SPORTS: sports books are made ONLY ahead of a major world cup or tournament (e.g. the 2027 women's soccer tournament, Olympics), never year-round |
+| 🛡️ floor | Tournament and brand names stay out of customer-facing copy (FIFA, World Cup, Olympics are trademarks); use descriptive wording like 'Women's Soccer 2027' |
+| 🔒 locked | Leonardo: wait for the daily 150 free credits, or use a fallback tool of equal quality at A$0 |

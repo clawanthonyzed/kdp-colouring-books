@@ -1,5 +1,7 @@
 # 🖍️ Blueprint: First Dollar | KDP Colouring Books
 
+> ⚠️ **UPDATED BY FOUNDER RULES (2026-10-14).** Sports books are now event-driven only ([FOUNDER-RULES.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/playbooks/FOUNDER-RULES.md)): the year-round soccer titles below are paused until a major tournament is 4 to 6 months out (next: the 2027 women's tournament). Covers are in-house, paperbacks A$9.99 to A$19.99, no volume cap. The Founder Rules win wherever this file disagrees.
+
 **Owner:** Atlas (KDP manager) | **Written:** 2026-10-08 | **Window:** 7 days
 
 > **The honest problem:** both books in [VENTURE.md](https://github.com/clawanthonyzed/kdp-colouring-books/blob/master/VENTURE.md) are World Cup 2026 books. The tournament ended in July 2026, so search demand has collapsed, and neither book has its pages drawn yet. Finishing them now is chasing a dead trend.

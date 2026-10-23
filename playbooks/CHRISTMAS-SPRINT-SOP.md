@@ -55,3 +55,14 @@ Specs, plan and playbook: clawanthonyzed/kdp-colouring-books/outputs and playboo
 | AI-disclosure answer and final upload click | Account holder action |
 | Leonardo free-tier credit budget per day | Credits are limited; a batch of 80 images may need several days |
 | Final price per marketplace | Money decision |
+
+## Lessons from the first build (2026-10-24)
+| Lesson | Rule for the next run |
+|---|---|
+| Leonardo's Lightning model returns photos, not line art | Use the Phoenix model with the "Coloring book page for kids" wording (toolbox/scripts/leonardo_batch.py) |
+| Colour and mood words in a prompt (a red bow, morning light, golden) pull the picture into colour or solid black | Strip them; the batch script does this automatically |
+| Roughly 1 in 3 first tries has solid black areas | The batch script checks each page with qc_pages.py and retries up to 4 times with simpler wording |
+| The model sometimes prints a website name along the bottom edge | The bottom 6 percent of every image is blanked before it is placed on the page |
+| AI cover art contains made-up text | Crop the picture to the animals and beach band and set all lettering ourselves |
+| Interior PDF | build_book.py (reportlab) then Ghostscript to grey: `gs -sDEVICE=pdfwrite -sColorConversionStrategy=Gray ...`; check with pdfinfo, pdffonts, pdfimages |
+| The KDP repo is public | Finished books and images go to the private second_brain repo until Anthony approves |

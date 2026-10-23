@@ -21,14 +21,14 @@ Dates are a plan, not a promise. The slowest step is image generation, so it set
 
 | | Book 1 | Book 2 |
 |---|---|---|
-| Title | Aussie Christmas & Wildlife Activity & Colouring Book | Christmas Traditions Around the World: Facts & Colouring Book |
+| Title | Aussie Christmas & Wildlife Activity & Colouring Book | Christmas Around the World: An Illustrated Facts, Folklore & Activity Book (working title) |
 | Idea | Australian summer Christmas: native animals, native flora, surfing Santa, barbecues, Aussie holiday facts | How Christmas, St Nicholas Day, Epiphany and seasonal holidays are celebrated in different countries, with fun facts |
 | Reader | Kids 4 to 10 and the grown-ups buying gifts, plus visitors and expats who want an Aussie keepsake | Kids 6 to 10, classrooms, families with ties to other countries |
 | Format | 8.5 x 11 in paperback, black ink, white paper | Same |
-| Interior | 80 pages: 40 colouring pages, each backed by a fun-facts page. 34 colouring scenes plus 6 activity pages | Same structure |
-| Cover | Full wrap 17.430 x 11.250 in at 300 dpi (80 pages, white paper) | Same |
+| Interior | Colouring book. v1 holds 33 colouring scenes, each backed by a fun-facts page, plus puzzles, answers and a certificate | NOT a colouring book. Illustrated facts, folklore, recipes, word searches, crosswords and a quiz. Locked in section 8 |
+| Cover | Full wrap, 17.4166 x 11.250 in at 300 dpi for v1 (74 pages, white paper) | Full wrap sized from the final page count (80 pages: 17.430 x 11.250 in) |
 | Page plan | See section 4, Quill parts 1 and 2 | See section 4, Quill parts 3 and 4 |
-| Why it might sell (a hypothesis, not yet tested) | An Australian summer Christmas angle with native wildlife may stand apart from snowy Christmas titles | Facts plus colouring may suit school and gift buyers |
+| Why it might sell (a hypothesis, not yet tested) | An Australian summer Christmas angle with native wildlife may stand apart from snowy Christmas titles | Facts, folklore and puzzles may suit school and gift buyers, and the structure travels to other languages |
 | Test before spending effort | Scout's competitor table for 5 search phrases | Same |
 
 ## 3. Fact banks
@@ -98,3 +98,72 @@ Inspection notes (Idea Lobster): the first Quill drafts stopped at 17 of 20 page
 | Now | Confirm the Amazon KDP account exists and is logged in on a browser he controls |
 | Now | Choose the Leonardo daily budget for Brush (free tier only) |
 | 20 Nov | Upload both books using Atlas's checklist and answer the AI-disclosure question |
+
+## 8. Book 2 locked specification (2026-10-24): Illustrated Facts, Folklore & Activity Book
+
+Decision by Anthony: Book 2 is not a colouring book. The earlier Book 2 page plans (colouring scenes) are superseded. Their facts and country list are kept as source material.
+
+### 8.1 Format
+
+| Item | Locked choice |
+|---|---|
+| Type | Cultural folklore, holiday trivia, recipes, word searches and crosswords. No colouring pages |
+| Trim, paper | 8.5 x 11 in, 80 pages. Black ink on white paper, so the print cost stays low. Illustrations are decorative ink art, not made for colouring |
+| Colour option | Premium colour interior is allowed at 8.5 x 11 for 24 to 590 pages but costs more to print. Anthony decides after the first proof |
+| Reader | Ages 8 to 12, families, classrooms, and grown-ups who like traditions |
+
+| Section | Pages | Content |
+|---|---|---|
+| Front matter | 2 | Title, about this book |
+| World map spread | 2 | Map with 16 labelled countries and a how-to-use note |
+| Country spreads | 32 | 16 countries x 2 pages: illustration, a short folklore story, three trivia facts, one local word |
+| Santa's many names | 2 | Names and who brings the gifts in each country |
+| Recipes | 8 | 8 simple traditional treats, one page each, with an ingredients list and steps |
+| Folklore stories | 12 | 6 longer stories x 2 pages |
+| Trivia pages | 5 | Quick facts and "true or false" |
+| Word searches | 6 | One per theme |
+| Crosswords | 4 | Clues written from the book's own facts |
+| Quiz | 2 | 20 questions |
+| Answers | 4 | All puzzle and quiz answers |
+| Certificate | 1 | Fill in the name |
+| Total | 80 | |
+
+### 8.2 Localisation architecture (Spanish, German, Italian, French, Japanese)
+
+The book is built as data plus templates, so each language is a rebuild, not a redesign.
+
+| Layer | Rule |
+|---|---|
+| Content units | Every fact, story, recipe, quiz question and puzzle word list is one record with an id (for example F-MX-02), the English text, the source it was checked against and its page slot. Translators change the text only; the id, source and slot never move |
+| Artwork | No words inside any illustration. Labels and captions sit on a separate text layer, so one set of images serves every language |
+| Layout templates | Each text box has room for the longest likely language: allow about 30 percent more space for German, 25 percent for Spanish, 20 percent for French and Italian. Japanese is shorter in width but needs a different font and line spacing |
+| Fonts | Noto Sans for Latin languages, Noto Sans JP for Japanese, all embedded in the PDF |
+| Puzzles | Word searches and crosswords are regenerated from each language's translated word list by the puzzle tool, never copied. Clues are rewritten per language |
+| Recipes | Metric and cup measures both shown. Dish names stay in the original language with a translated description. Allergen line added in every language |
+| Facts | A fact is only translated once its source is on the record. Cultural claims get a native-speaker review |
+| Translation workflow | Draft by machine, then a native reviewer for each language before anything is published. Review cost is a spend decision for Anthony |
+| Marketplace set-up | Separate KDP listing per marketplace: title, subtitle, description and 7 keywords in the local language. Amazon.es, .de, .it, .fr and .co.jp |
+| Trim for Europe | Keep 8.5 x 11 for all, or add an A4 edition (8.27 x 11.69 in, 24 to 780 pages on black ink). Decide after the English proof |
+| Order of release | English first, then Spanish and German, then French and Italian, then Japanese. One language is released only after its review |
+
+### 8.3 Next steps for Book 2
+
+| Step | Owner | Depends on |
+|---|---|---|
+| Write the 16 country units from the fact bank, with sources | Quill | Free route reset each morning |
+| Choose the 8 recipes and check each against a named source | Quill, Draw | Source check |
+| Generate puzzles with the puzzle tool and QC | Press, Draw | Content units |
+| Ink illustrations in the Book 1 pipeline | Brush | Leonardo free allowance |
+| Translation reviewers and budget | Anthony | Decision |
+
+## 9. Book 1 v1 built (2026-10-24)
+
+| Item | Status |
+|---|---|
+| Interior PDF | 74 pages, 8.5 x 11 in, black and white, 300 ppi, fonts embedded |
+| Contents | Title, about page, 33 colouring scenes each backed by a facts page with a draw-your-own box, word search, maze, match-up, draw-your-own Santa, answers, certificate |
+| Cover | Full wrap 17.4167 x 11.250 in at 300 dpi (spine 0.1666 in), plus a guides template |
+| QC | All 33 line art pages pass the automatic checks; 32 of 33 facts match the fact bank, one has a named source |
+| Where | Private second_brain repo, folder overnight/kdp-colouring-books/AUSSIE-CHRISTMAS-BOOK-v1 (the KDP repo is public, so the finished book is not pushed there) |
+| Gaps against the plan | Quill's page 34 (gum-leaf tree) and activity pages 35 to 40 were not used: the tree row had no fact and the activity rows were unusable, so the puzzles were built with a puzzle tool instead. Spot the difference and connect the dots are not in v1 |
+| Still to do before upload | Anthony's look at the PDF and cover, source-check the remaining facts, confirm the imprint name, and the KDP upload by the account holder |

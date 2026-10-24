@@ -66,3 +66,14 @@ Specs, plan and playbook: clawanthonyzed/kdp-colouring-books/outputs and playboo
 | AI cover art contains made-up text | Crop the picture to the animals and beach band and set all lettering ourselves |
 | Interior PDF | build_book.py (reportlab) then Ghostscript to grey: `gs -sDEVICE=pdfwrite -sColorConversionStrategy=Gray ...`; check with pdfinfo, pdffonts, pdfimages |
 | The KDP repo is public | Finished books and images go to the private second_brain repo until Anthony approves |
+
+## Lessons from Book 2 (2026-10-24)
+| Lesson | Rule for the next run |
+|---|---|
+| AI plates sometimes draw words on signs and cakes (a sign that read CHRISTMAAS) | Put "no signs, no words, no writing" in every prompt, then look at a contact sheet of every plate before building |
+| A prompt with "soldiers" and "football" gave American football players | Name the clothes and the era ("long coats and soft caps") and look at the result |
+| A page template that fits English can overflow in German and French | The builder prints a WARN line when a page runs out of room; fix before the PDF is accepted |
+| Japanese crosswords place only 5 to 7 words | Kana words share few letters; give the generator a pool of 12 words and accept the entries that fit, or choose words with common letters |
+| Cover art contains made-up lettering | Crop the picture to the artwork band and set all lettering yourself (same as Book 1) |
+| Recipes are text only | Mark them as untested until an adult has cooked them |
+| Facts | Search each fact in a published source and keep the register in BOOK2-QC-REPORT.md; claims with no source are listed, never hidden |

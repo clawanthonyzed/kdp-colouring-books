@@ -83,3 +83,18 @@ Source: [KDP cover guide](https://kdp.amazon.com/help/topic/G201953020)
 | Pages | 80 interior pages each (spine text allowed, gutter 0.375 in) |
 | Bleed | No bleed for line art kept inside the margin. Covers use the full wrap with bleed |
 | Cover | Full wrap, 17.430 x 11.250 in for 80 pages, 300 dpi |
+
+## Colour interiors (verified 2026-10-24 from KDP help pages)
+
+| Item | Value |
+|---|---|
+| Ink options | Black, Standard colour (72 to 600 pages, paperback only), Premium colour (24 to 828 pages) |
+| Spine per page, white paper | black 0.002252 in, Standard colour 0.002252 in, Premium colour 0.002347 in |
+| Spine text | allowed above 79 pages (Cover Creator needs 80) |
+| Large trim (wider than 6.12 in or taller than 9 in) print cost, Amazon.com.au | black A$5.28 flat for 24 to 108 pages, then A$2.42 + A$0.027 a page; Premium colour A$6.42 flat for 24 to 40 pages, then A$2.42 + A$0.100 a page; Standard colour not listed for Australia |
+| Large trim print cost, Amazon.com | black US$2.84 flat to 110 pages; Standard colour US$1.00 + US$0.0402 a page; Premium colour US$1.00 + US$0.08 a page |
+| Large trim print cost, Amazon.co.uk | Standard colour GBP 0.85 + GBP 0.027 a page; Premium colour GBP 0.85 + GBP 0.0598 a page |
+| Large trim print cost, Amazon.de | Standard colour EUR 0.75 + EUR 0.035 a page; Premium colour EUR 0.75 + EUR 0.0715 a page |
+| Royalty | rate x list price minus print cost; 50% below the cutover price and 60% at or above it (A$13.99 in Australia, US$9.99, GBP 7.99, EUR 9.99); Expanded Distribution 40% |
+| Bleed | 0.125 in on the cover; interior pages with art to the edge need the bleed setting, so the colour edition keeps all art inside the margins |
+| Print-cost calculator | toolbox/scripts/kdp_royalty.py |

@@ -167,3 +167,27 @@ The book is built as data plus templates, so each language is a rebuild, not a r
 | Where | Private second_brain repo, folder overnight/kdp-colouring-books/AUSSIE-CHRISTMAS-BOOK-v1 (the KDP repo is public, so the finished book is not pushed there) |
 | Gaps against the plan | Quill's page 34 (gum-leaf tree) and activity pages 35 to 40 were not used: the tree row had no fact and the activity rows were unusable, so the puzzles were built with a puzzle tool instead. Spot the difference and connect the dots are not in v1 |
 | Still to do before upload | Anthony's look at the PDF and cover, source-check the remaining facts, confirm the imprint name, and the KDP upload by the account holder |
+
+## 10. Book 1 artwork approved by Anthony (2026-10-24)
+
+| Item | Status |
+|---|---|
+| Visual sign-off | Anthony reviewed the Book 1 illustrations on 2026-10-24 and said "Pictures look good." The artwork and the 74-page manuscript are approved on sight |
+| Still open for Book 1 | Anthony's read of the text and cover, source-check of the remaining facts, the imprint name, and the KDP upload by the account holder |
+| Staged for the final Amazon KDP upload | AUSSIE-CHRISTMAS-BOOK-v1.pdf (interior, 74 pages) and COVER-WRAP-v1.pdf (full wrap, spine 0.1666 in), in the private second_brain repo, folder overnight/kdp-colouring-books/AUSSIE-CHRISTMAS-BOOK-v1. Nothing is uploaded or priced |
+
+## 11. Book 2 built in six editions (2026-10-24)
+
+Title: "Christmas Traditions Around the World: Illustrated Facts, Folklore & Holiday Activities" (this wording is now the working title; section 8 had an earlier working title).
+
+| Item | Status |
+|---|---|
+| Master English edition | 80 pages, 8.5 x 11 in, black ink on white paper, fonts embedded, images 244 ppi or better. 16 country spreads (32 pages), 6 gift bringers (2), 8 recipes (8), 12 legends and true stories (12), 5 trivia quizzes (5), 6 word searches (6), 4 crosswords (4), match-the-country and true-or-false (2), 4 answer pages (4), title, about, trip list, passport (4), certificate (1) |
+| Illustrations | 42 black line-art plates (A$0, Leonardo free tier) shared by all editions: 16 countries, 6 gift bringers, 8 recipes, 12 stories. Five plates were redone after the first look (a misspelled sign, football players in an American kit, a baby goat instead of a giant straw one, a round cake instead of a log, covered faces) |
+| Other editions | Spanish, German, Italian, French and Japanese, each 80 pages, same plates, text translated, word searches and crosswords regenerated from native word banks, each verified by script |
+| Covers | Full wrap 17.4302 x 11.250 in, spine 0.1802 in for 80 pages on white paper (spine text allowed above 79 pages), one per language plus a guides template |
+| QC | All six editions: 0 automatic failures. Fact register in BOOK2-QC-REPORT.md: facts with a published source and facts still to verify |
+| Where | Private second_brain repo, folder overnight/kdp-colouring-books/BOOK2-CHRISTMAS-TRADITIONS-v1 (the KDP repo is public) |
+| Open before upload | Native review of the five translations, an adult test-cook of the 8 recipes, source-check of the facts listed as unverified, imprint name, Amazon KDP account, AI-disclosure answer (yes), and the price per marketplace |
+
+File names: BOOK2-CHRISTMAS-TRADITIONS-EN-v1.pdf, BOOK2-TRADICIONES-NAVIDAD-ES-v1.pdf, BOOK2-WEIHNACHTSTRADITIONEN-DE-v1.pdf, BOOK2-TRADIZIONI-NATALE-IT-v1.pdf, BOOK2-TRADITIONS-NOEL-FR-v1.pdf, BOOK2-CHRISTMAS-TRADITIONS-JA-v1.pdf.

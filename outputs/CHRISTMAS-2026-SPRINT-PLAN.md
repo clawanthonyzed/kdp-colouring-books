@@ -191,3 +191,48 @@ Title: "Christmas Traditions Around the World: Illustrated Facts, Folklore & Hol
 | Open before upload | Native review of the five translations, an adult test-cook of the 8 recipes, source-check of the facts listed as unverified, imprint name, Amazon KDP account, AI-disclosure answer (yes), and the price per marketplace |
 
 File names: BOOK2-CHRISTMAS-TRADITIONS-EN-v1.pdf, BOOK2-TRADICIONES-NAVIDAD-ES-v1.pdf, BOOK2-WEIHNACHTSTRADITIONEN-DE-v1.pdf, BOOK2-TRADIZIONI-NATALE-IT-v1.pdf, BOOK2-TRADITIONS-NOEL-FR-v1.pdf, BOOK2-CHRISTMAS-TRADITIONS-JA-v1.pdf.
+
+## 12. Book 2 colour revision (Anthony's review, 2026-10-24)
+
+Anthony reviewed the English black-and-white edition and gave four directions. All four are built into the colour edition (v2).
+
+| Direction | What changed |
+|---|---|
+| "It is an activity and facts book. I want it in colour." | Interior is full colour for KDP Premium colour: 98 colour illustrations (was 42 line drawings). Covers redone with the Premium colour spine: 80 pages x 0.002347 = 0.1878 in, full wrap 17.4378 x 11.250 in |
+| "There needs to be more pictures." | 4 pictures per country spread (a wide hero plus 3), a map page, a passport with 16 pictures, a picture on each quiz page and the certificate |
+| "I don't want drawing in the book. A pen only touches the book for the activity parts." | All 28 "draw" boxes removed. The passport has tick boxes. Try-it lines now say cut, stick or say. Quick checks (circle T or F) take their place: 3 per country, 2 per story, answers on page 79 |
+| "There needs to be more facts." | 6 facts per country (was 3), 2 extra per story, 1 extra per gift bringer: 78 new facts, each source-checked or listed as unchecked in BOOK2-COLOUR-QC-REPORT.md |
+
+### Colour print cost and royalty (80 pages, 8.5 x 11 in, large trim; KDP help pages read 2026-10-24; AUD at the RBA daily rate)
+
+| Marketplace and ink | Print cost per book | A$12.99 | A$19.99 | A$24.99 | A$29.99 |
+|---|---|---|---|---|---|
+| Amazon.com.au black and white | A$5.28 | A$1.21 (50%) | A$6.71 | A$9.71 | A$12.71 |
+| Amazon.com.au Premium colour | A$10.42 | loss of A$3.92, not allowed (minimum list price A$17.37) | A$1.57 | A$4.57 | A$7.57 |
+| Amazon.com.au Standard colour | not offered | n/a | n/a | n/a | n/a |
+| Amazon.com Premium colour | US$7.40 (A$10.56) | loss | A$1.43 | A$4.43 | A$7.43 |
+| Amazon.com Standard colour | US$4.22 (A$6.02) | A$0.48 | A$5.98 | A$8.98 | A$11.98 |
+| Amazon.co.uk Premium / Standard | GBP 5.63 (A$10.77) / GBP 3.01 (A$5.75) | loss / A$0.74 | A$1.23 / A$6.24 | A$4.23 / A$9.24 | A$7.23 / A$12.24 |
+| Amazon.de Premium / Standard | EUR 6.47 (A$10.35) / EUR 3.55 (A$5.68) | loss / A$0.81 | A$1.64 / A$6.31 | A$4.64 / A$9.31 | A$7.64 / A$12.31 |
+
+Rules behind the table: royalty = rate x list price minus print cost; rate is 50% at or below A$13.98 on Amazon.com.au and 60% from A$13.99 (other markets use their own cutover); minimum list price is the print cost divided by the rate. Premium colour on Amazon.com.au costs A$2.42 plus A$0.100 a page. The tool is toolbox/scripts/kdp_royalty.py.
+
+Reading it: at A$12.99 colour loses money on every sale in Australia. Colour needs a price of A$24.99 or more to earn about A$4.57 (18%), or A$29.99 for about A$7.57 (25%). Cutting to 60 pages would save about A$2.00 a book.
+
+### Open decisions for Anthony (card on /tasks)
+1. Ink: Premium colour everywhere (sold in Australia) or Standard colour (cheaper in US, UK and Germany, not offered in Australia).
+2. Price: A$24.99 or A$29.99 for the colour edition. Keep the black-and-white edition at A$12.99 as a cheaper sibling if wanted.
+3. Title: "Christmas Traditions around the World" by Bibi LeBlanc (Advent colouring calendar, December 2025) already exists. Choose a different working title before upload.
+4. Native review of the five translations, and an adult test-cook of the eight recipes.
+
+### Files
+Colour PDFs, covers, QC report and contact sheets: private second_brain, folder overnight/kdp-colouring-books/BOOK2-COLOUR-v2.
+
+## 13. KDP upload boundary (answer to Anthony's question, 2026-10-24)
+
+| Question | Answer |
+|---|---|
+| Can agents upload to KDP without Anthony? | No. The empire holds no KDP login, KDP has no public publishing API for paperbacks that this system uses, and every standing rule (Critical Rule 2, the Christmas SOP hard stops) says nothing is uploaded, priced or published without Anthony |
+| How does the file reach Amazon? | Server production folder, then private GitHub (second_brain), then the review card on /tasks. Anthony downloads the PDFs and uploads them himself in his own KDP account |
+| Who clicks Publish? | Anthony only. He also gives the AI-disclosure answers (yes for text, images and translations), sets the price and territories, and confirms the imprint |
+| What does the Publishing Shield do? | The database trigger turns finished agent tasks into "awaiting approval" for Cudan Studio and GTT Center Perth. KDP Colouring Books is covered by the standing hard rules and by having no credentials, not by that trigger. It can be extended to this venture on request |

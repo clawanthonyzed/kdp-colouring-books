@@ -77,3 +77,13 @@ Specs, plan and playbook: clawanthonyzed/kdp-colouring-books/outputs and playboo
 | Cover art contains made-up lettering | Crop the picture to the artwork band and set all lettering yourself (same as Book 1) |
 | Recipes are text only | Mark them as untested until an adult has cooked them |
 | Facts | Search each fact in a published source and keep the register in BOOK2-QC-REPORT.md; claims with no source are listed, never hidden |
+
+## Lessons from the colour revision (2026-10-24)
+| Lesson | Rule for the next run |
+|---|---|
+| The reader said it is an activity book: no drawing boxes | In an activity or facts book the only pen work is in puzzles and quick checks. Never add blank "draw here" areas. A reviewer card should ask this before the build |
+| Colour costs about double to print | Work out the print cost per marketplace with kdp_royalty.py BEFORE choosing colour, and price from the minimum list price |
+| The picture tool draws on paid API credits | Check the Leonardo apiPaidTokens balance before and after a batch (about 11 credits per large colour plate) and tell Anthony the cost |
+| Wide colour pictures can carry stray text and signatures | Look at every plate on a contact sheet, regenerate the faulty ones, and let the layout crop the bottom edge |
+| Layout must flex | Pages measure first and then choose the largest font that fits, so German and French fit as well as English |
+| A near-identical title may already exist | Search the title on Amazon before the cover is made |
